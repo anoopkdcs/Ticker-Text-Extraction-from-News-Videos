@@ -1,6 +1,6 @@
 # Text Extraction from News Videos
 ## Mathematical Morphology and Region Clustering Based Text Information Extraction from Malayalam News Videos
-Anoop K, Manjary P Gangan, Lajish V L</br>
+Anoop Kadan, Manjary P. Gangan, Lajish V. L.</br>
 Computational Intelligence and Data Analytics (CIDA Lab) </br>
 Department of Computer Science </br>
 University of Calicut, India </br>
